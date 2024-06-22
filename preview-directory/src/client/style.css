@@ -1,0 +1,12 @@
+/* src/client/style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.directory, .file {
+  margin: 5px 0;
+}
+.directory {
+  font-weight: bold;
+}
+
